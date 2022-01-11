@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeropimentel - Im a MolecularBiologist
+- 👋 Hi, I’m @jeropimentel a MolecularBiologist
 - 👀 I’m interested in AI and DataScience 
 - 🌱 I’m currently learning Solidity
 
